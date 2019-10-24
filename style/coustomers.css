@@ -1,0 +1,14 @@
+.coustomers {
+    width: 1140px;
+    align-items: center;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background: #f4f4f4;
+    padding-top: 30px;
+    padding-bottom: 81px;
+}
+
+.coustomers__logo {
+    filter: brightness(0);
+}
