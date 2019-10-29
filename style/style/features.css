@@ -3,6 +3,12 @@
     position: relative;
 }
 
+@media screen and(max-width) {
+    .features {
+        display: none;
+    }
+}
+
 .features__c0ntent {
     width: 1140px;
     margin: auto;
