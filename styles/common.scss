@@ -8,15 +8,3 @@
     border-radius: 2px;
     border: none;
 }
-
-.hide_descktop {
-    @include for-large-up {
-        display: none;
-    }
-}
-
-.hide_mobile {
-    @include for-large-up {
-        display: none;
-    }
-}
